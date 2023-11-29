@@ -1,5 +1,4 @@
-﻿// Testing my PR
-// Testing my first PR
+﻿// Testing my first PR
 //My second change
 // My first change
 using System.Net.Mime;
